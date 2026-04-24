@@ -27,4 +27,8 @@ public class Demo1Application {
         return "Application is running";
     }
 
+    public String getA() {
+        return "A";
+    }
+
 }
